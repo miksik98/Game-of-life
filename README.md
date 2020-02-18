@@ -1,5 +1,5 @@
 # Gra w życie
-Program działający na płytce STM32F746G-DISCO, będącego wizualizacją działania automatu komórkowego 
+Program działający na płytce STM32F746G-DISCO, będący wizualizacją działania automatu komórkowego 
 “Game of Life”. 
 
 ## Jak uruchomić?
